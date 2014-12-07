@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-cyrillic-bin
 Version:	20140619
-Release:	2
+Release:	3
 Summary:	Cyrillic bibtex and makeindex
 Group:		Publishing
 URL:		http://tug.org/texlive
