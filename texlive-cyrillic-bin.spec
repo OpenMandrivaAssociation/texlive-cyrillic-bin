@@ -1,6 +1,6 @@
 Name:		texlive-cyrillic-bin
 Version:	62517
-Release:	1
+Release:	2
 Summary:	Cyrillic bibtex and makeindex
 Group:		Publishing
 URL:		http://tug.org/texlive
