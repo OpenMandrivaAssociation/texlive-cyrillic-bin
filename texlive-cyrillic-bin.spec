@@ -3,7 +3,7 @@ Version:	62517
 Release:	2
 Summary:	Cyrillic bibtex and makeindex
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cyrillic-bin.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cyrillic-bin.doc.r%{version}.tar.xz
